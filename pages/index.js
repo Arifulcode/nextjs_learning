@@ -17,6 +17,12 @@ function Index(){
         <Link href='/product'>
             <h2>Products</h2> 
         </Link>
+        <Link href='/users'>
+            <h2>Users</h2>  
+        </Link>
+        <Link href='/posts'>
+            <h2>posts</h2> 
+        </Link>
         <button onClick={handleClick}> 
           replace order
         </button>
